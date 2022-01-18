@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE md>
 <html lang="en" dir="ltr">
 
 <head>
@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <table cellspacing="20">
+  <table cellspacing="20" border="none">
     <tr>
       <td>
         <img src="images/chinglingweenie-modified.png" alt="sugardaddyprofilephoto" height="200px" />
