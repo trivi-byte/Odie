@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <table cellspacing="20" border="none">
+  <table cellspacing="20">
     <tr>
       <td>
         <img src="images/chinglingweenie-modified.png" alt="sugardaddyprofilephoto" height="200px" />
